@@ -27,7 +27,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=feeldevendra&icon=7&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 From code to contributions 🚀
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/feeldevendra) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/feeldevendra) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/feeldevendra) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/feeldevendra) 
 
   
